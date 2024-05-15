@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/blob/main/LICENSE</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/issues</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/pulls</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/actions</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/security</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/blob/main/.gitignore</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/blob/main/README.md</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/blob/main/generate_sbom_csv.py</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/blob/main/index.html</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/releases</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels?sort=name-asc</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels?sort=name-desc</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels?sort=count-desc</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels?sort=count-asc</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/bug</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/documentation</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/duplicate</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/enhancement</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/good%20first%20issue</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/help%20wanted</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/invalid</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/question</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/labels/wontfix</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sn993940/sbom-json2csv-converter/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-05-15T19:02:37+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
